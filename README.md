@@ -6,7 +6,7 @@
 <br> User is given instructions on how to play. 
 <br> Using import random libary, python selects random integer from <b>0 - 2</b>
 <br> Using datetime, user gets personalised greeting for stage of day.
-<br> User char inpuut is cast to integer.
+<br> User char input is cast to integer.
 <br> Display of result is given.
 <br> Comments or recommendation of improvments is welcome! &hearts;
 <br>
